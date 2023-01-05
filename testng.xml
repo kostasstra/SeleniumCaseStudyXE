@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test
+            name="Smoke Test">
+
+        <classes>
+            <class name="gr.xe.selenium.qaChallenge.FilterGreaterThanFiveHundredThousand"/>
+            <class name="gr.xe.selenium.qaChallenge.ReturnedResultsForRentHouses"/>
+            <class name="gr.xe.selenium.qaChallenge.SelectLandForSaleApplyPlotFilterSaveSearch"/>
+        </classes>
+
+    </test>
+</suite>
